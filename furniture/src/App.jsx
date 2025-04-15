@@ -20,7 +20,6 @@ function App(){
       <About />
       <Products />
       <Banner />
-      <Products />
       <Gallery />
       <Contacts />
       <Reviews />

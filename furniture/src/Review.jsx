@@ -10,7 +10,7 @@ function Reviews(){
             <div className="review-content">
                 <div className="box">
                     <div className="img">
-                        <img src="./images/p1.png" alt="" />
+                        <img src="./src/images/p1.png" alt="" />
                     </div>
                     <h3>Elon Musk</h3>
                     <div className="star">

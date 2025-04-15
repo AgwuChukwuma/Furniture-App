@@ -6,11 +6,11 @@ function Gallery(){
             <h3>Our Gallery</h3>
             <div className="gallery-img">
                 <div className="img1">
-                    <img src="./images/g1.png" alt="" />
+                    <img src="./src/images/g1.png" alt="" />
                 </div>
                 <div className="img1">
-                    <img src="./images/g2.png" alt="" />
-                    <img src="./images/g3.png" alt="" />
+                    <img src="./src/images/g2.png" alt="" />
+                    <img src="./src/images/g3.png" alt="" />
                 </div>
             </div>
         </div>

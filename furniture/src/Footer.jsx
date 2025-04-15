@@ -4,10 +4,6 @@ function Footer() {
   return (
     <footer id="footer">
       <div className="footer-content">
-        <div className="logo">
-          <img src="./images/logo.png" alt="" />
-        </div>
-
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et labore suscipit nisi non, laudantium delectus?</p>
         <div className="socail-links">
           <i className="fa-brands fa-twitter"></i>

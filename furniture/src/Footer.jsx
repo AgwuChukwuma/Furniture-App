@@ -15,9 +15,9 @@ function Footer() {
       </div>
       <hr />
       <div className="footer-bottom-content">
-        <p>Designed By <a href="#">SA Coding</a></p>
+        <p>Designed By <a href="#">Da Great Codes</a></p>
         <div className="copyright">
-          <p>&copy;Copyright <strong>SA Coding</strong>. All Rights Reserved</p>
+          <p>&copy;Copyright <strong>Da Great Codes</strong>. All Rights Reserved</p>
         </div>
       </div>
     </footer>

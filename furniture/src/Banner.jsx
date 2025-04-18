@@ -2,6 +2,7 @@ import React from "react";
 
 function Banner(){
     return(
+        <>
         <div className="banner">
             <div className="banner-content">
                 <h5>Get Discount Up To 50%</h5>
@@ -9,6 +10,7 @@ function Banner(){
                 <p>Get up to 50% off this week and offer <br />Don't miss</p>
                 <button><a href="#products">Order</a></button>
             </div>
+        </div>
         <section className="product" id="products" >
         <div className="main-txt">
             <h3>50% off products</h3>
@@ -52,7 +54,8 @@ function Banner(){
             </div>
         </div>
             </section>
-        </div>
+        
+        </>
     );
 }
 

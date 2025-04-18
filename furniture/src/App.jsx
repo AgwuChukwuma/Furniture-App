@@ -5,7 +5,7 @@ import Offers from "./Offers";
 import About from "./About";
 import Products from "./Products";
 import Banner from "./Banner";
-import Gallery from "./Gallery";
+import Gallery from "./Gallary";
 import Contacts from "./Contact";
 import Reviews from "./Review";
 import Footer from "./Footer";

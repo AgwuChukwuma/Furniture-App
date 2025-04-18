@@ -1,10 +1,10 @@
 import React from "react";
 
-function Gallery(){
+function Gallary(){
     return(
-        <div className="gallery">
-            <h3>Our Gallery</h3>
-            <div className="gallery-img">
+        <div className="gallary">
+            <h3>Our Gallary</h3>
+            <div className="gallary-img">
                 <div className="img1">
                     <img src="./src/images/g1.png" alt="" />
                 </div>
@@ -17,4 +17,4 @@ function Gallery(){
     );
 }
 
-export default Gallery;
+export default Gallary;
